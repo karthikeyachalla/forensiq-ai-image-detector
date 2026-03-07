@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.h5
+models/*.pth
+.venv/
+.DS_Store
+AP 2.docx

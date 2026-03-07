@@ -1,0 +1,85 @@
+2026-03-03T00:29:11.427192,WhatsApp Image 2026-03-02 at 22.09.03.jpeg,AI-Generated,93.9%,Real,100%,wrong,🔮 Ensemble: All 3 Models Combined (Most robust)
+2026-03-03T00:29:45.205575,WhatsApp Image 2026-03-02 at 22.09.03.jpeg,AI-Generated,93.9%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T00:30:29.993280,WhatsApp Image 2026-03-02 at 22.10.48.jpeg,AI-Generated,53.3%,AI-Generated,71%,correct,🌐 CLIP Universal Detector (Best — works on any image)
+2026-03-03T00:31:01.696393,Gemini_Generated_Image_l3q0l3q0l3q0l3q0.jpeg,AI-Generated,59.3%,AI-Generated,100%,correct,🌐 CLIP Universal Detector (Best — works on any image)
+2026-03-03T00:31:37.343322,Photo on 06-09-25 at 4.42 PM.jpg,Real,51.7%,Real,100%,correct,🌐 CLIP Universal Detector (Best — works on any image)
+2026-03-03T00:32:22.627455,WhatsApp Image 2025-08-01 at 23.11.48.jpeg,Real,52.0%,Real,100%,correct,🌐 CLIP Universal Detector (Best — works on any image)
+2026-03-03T00:33:05.151935,chervolet 1966.webp,AI-Generated,58.8%,AI-Generated,100%,correct,🌐 CLIP Universal Detector (Best — works on any image)
+2026-03-03T12:30:49.415058,download.jpeg,AI-Generated,51.6%,Real,84%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T12:31:35.584765,WhatsApp Image 2026-03-02 at 22.10.48.jpeg,AI-Generated,88.0%,AI-Generated,88%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:32:11.600065,WhatsApp Image 2026-03-02 at 22.09.03.jpeg,AI-Generated,93.9%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T12:32:27.093994,WhatsApp Image 2026-03-02 at 22.09.03.jpeg,AI-Generated,93.9%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T12:32:51.179319,Gemini_Generated_Image_il5lpqil5lpqil5l.png,AI-Generated,96.6%,AI-Generated,96%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:33:16.428733,WhatsApp Image 2026-01-20 at 15.20.23.jpeg,AI-Generated,77.3%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T12:34:04.957971,subhash.jpeg,AI-Generated,92.1%,AI-Generated,74%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:34:45.653277,WhatsApp Image 2026-03-02 at 22.09.03.jpeg,AI-Generated,93.9%,Real,100%,wrong,🔮 Ensemble: All 3 Models
+2026-03-03T12:34:51.824131,WhatsApp Image 2026-03-02 at 22.09.03.jpeg,AI-Generated,93.9%,AI-Generated,90%,correct,🔮 Ensemble: All 3 Models
+2026-03-03T12:35:15.554673,WhatsApp Image 2026-03-02 at 22.09.03.jpeg,AI-Generated,93.9%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T12:37:05.848531,WhatsApp Image 2026-03-02 at 22.10.48.jpeg,AI-Generated,88.0%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:37:38.221508,kate-bezzubets-I-4UG05Iq40-unsplash.jpg,AI-Generated,92.9%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:41:32.565819,artin-ghorbani-8i-4LVRHYjk-unsplash.jpg,Real,85.8%,Real,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:41:54.660066,behrouz-sasani-khMxnuosSV4-unsplash.jpg,AI-Generated,93.8%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:43:56.486324,alexander-startsev-ndNw_6QGR_c-unsplash.jpg,AI-Generated,83.7%,AI-Generated,97%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:44:51.690410,cry-mor-D4ZrT2xPbxA-unsplash.jpg,Real,73.7%,Real,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:56:33.831227,feedback_images/37675c41569f4dbf8ce69cedc1f10779_“Capture dynamic splashes of food in flying food p.webp,AI-Generated,99.9%,AI-Generated,100%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:56:49.541921,feedback_images/a74f3db9a9a9407e95f75c951b566d78_An old.webp,AI-Generated,99.3%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:57:03.114211,feedback_images/90d127d9c44f4df1bdcd656652641521_unnamed(18).jpg,AI-Generated,89.0%,AI-Generated,95%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:57:14.922395,feedback_images/48ae477a3bff463c95f4165d5dffae03_A realistic photo of a thin 30-year-old french man.webp,AI-Generated,99.1%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:57:37.404088,feedback_images/9fb43cc76dd648b6ac6e97fd3bebe133_behrouz-sasani-1B22UBPK1Pw-unsplash.jpg,AI-Generated,91.5%,Real,90%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T12:57:55.404473,feedback_images/39d9ce385fc14948aee6c58c997dd1e7_jyotirmoy-gupta-fpBNEz7N14s-unsplash.jpg,AI-Generated,99.8%,Real,97%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T12:58:27.865091,feedback_images/f8a6c6f5a14541f6b394dbc049760968_WhatsApp Image 2026-03-02 at 22.09.03.jpeg,AI-Generated,90.6%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T12:58:41.812848,feedback_images/ba06b07bee7442898c9209e22854d624_WhatsApp Image 2026-03-02 at 22.10.48.jpeg,AI-Generated,65.5%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T12:59:13.218045,feedback_images/22ca34f60f2b4dbcbc047cd8e02efe7f_will-ma-ob5tlfduOeo-unsplash.jpg,AI-Generated,87.3%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T12:59:26.570713,feedback_images/e009299270a849ec95789dc3f3c39209_istockphoto-177383755-1024x1024.jpg,AI-Generated,91.0%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T13:26:53.637486,feedback_images/029125448d9d43048160518b29935cbf_artin-ghorbani-8i-4LVRHYjk-unsplash.jpg,Real,68.1%,Real,100%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T13:27:36.646054,feedback_images/a6ef2a1aad3d461eb8bf00c727f2c329_A realistic photo of a thin 30-year-old french man.webp,AI-Generated,98.7%,AI-Generated,98%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T13:27:53.214719,feedback_images/9c55dcf23db244368e405129c2a56cd9_Hunter.webp,AI-Generated,99.8%,AI-Generated,97%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T13:28:16.776249,feedback_images/c7eb276853e34dc2a9b50db0d7307757_WhatsApp Image 2026-03-02 at 22.09.03.jpeg,AI-Generated,93.4%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T13:28:31.405605,feedback_images/4a342278903f4f10ab0eaeab731b9d87_WhatsApp Image 2026-03-02 at 22.10.48.jpeg,AI-Generated,75.8%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T13:29:03.420694,feedback_images/8ec00cb0f1c94ffcb4f1d13870bbd0e4_matthew-henry-Ix1TiS-E17E-unsplash.jpg,AI-Generated,98.2%,Real,90%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T13:29:46.147572,feedback_images/52067849ed97436287fdddac56606ec2_file.png,AI-Generated,74.9%,AI-Generated,74%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T13:29:46.830738,feedback_images/8f1f88b637264dc28df80a26f9380734_file.png,AI-Generated,74.9%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T13:30:51.823003,feedback_images/5978b26e6b5e462ca684138f75dfe967_Gemini_Generated_Image_7kf61y7kf61y7kf6.png,AI-Generated,81.4%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T13:31:15.578869,feedback_images/4a466aa8db94404594aca9dc26225fd0_Photo on 06-09-25 at 4.42 PM.jpg,AI-Generated,96.2%,Real,98%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T13:48:46.657249,feedback_images/365230870bad426aaccbeb23f1411599_WhatsApp Image 2026-03-02 at 22.09.03.jpeg,AI-Generated,90.6%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T14:03:15.154427,feedback_images/6368fc752f7c487eb7c2077776a5a7af_WhatsApp Image 2026-03-02 at 22.09.03.jpeg,AI-Generated,83.8%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T14:06:35.342317,feedback_images/d0775d427837405f9ace06ce909ea8aa_artin-ghorbani-B57r_qGh9x4-unsplash.jpg,Real,98.6%,Real,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T14:06:50.959370,feedback_images/701f34dc2f7c45839e00395104d21aab_pexels-jimmyelizarraras-20849037.jpg,AI-Generated,85.5%,Real,90%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T14:09:55.891905,feedback_images/fb59d2dd33814997bc96624371ce5d53_alexander-startsev-ndNw_6QGR_c-unsplash.jpg,Real,78.2%,Real,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T14:10:12.879582,feedback_images/df470078ecad44cca9c16fd252c1f472_istockphoto-177383755-1024x1024.jpg,AI-Generated,68.2%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T14:10:31.382037,feedback_images/8e293893b5074580acea25ee425d2b22_bouy-moon-wXVcrvI6J9U-unsplash.jpg,Real,81.6%,Real,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T14:24:47.033985,feedback_images/218f381d26ef4604ae1cc6a687e0685e_istockphoto-177383755-1024x1024.jpg,AI-Generated,68.2%,Real,90%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T14:25:41.973960,feedback_images/5adb7e2403554a25b6772b714343a967_behrouz-sasani-1B22UBPK1Pw-unsplash.jpg,AI-Generated,85.2%,Real,90%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T20:12:47.649402,feedback_images/ff040360ab2f4e12bb5270e984e648e1_francis-odeyemi-rotRaep7gpY-unsplash.jpg,AI-Generated,86.5%,Real,84%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T20:13:16.366372,feedback_images/6923bef87b5e475ea92785ee9565b776_denise-jans-DV9DXBpVPCM-unsplash.jpg,AI-Generated,89.9%,Real,90%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T20:43:12.058549,feedback_images/2e2a3780a3784d4e89bc43562b9f5d62_YouTube background with a thumbnail that will get .webp,AI-Generated,96.6%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:07:55.128913,feedback_images/519879e92e1e44fabf426a341bdc259f_Photo on 06-09-25 at 12.51 PM.jpg,AI-Generated,81.2%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T21:08:39.573346,feedback_images/91cc38ad5aa44922a2851c2755ea6b5c_WhatsApp Image 2026-03-02 at 22.09.03.jpeg,AI-Generated,64.0%,Real,100%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T21:09:04.145990,feedback_images/e9e4125d1a6d4de6864ae2c243b195ac_WhatsApp Image 2026-03-02 at 22.10.48.jpeg,Real,74.0%,AI-Generated,90%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T21:10:05.592932,feedback_images/a7fba89d90594d0fa9ea38030a38010e_artin-ghorbani-8i-4LVRHYjk-unsplash.jpg,Real,99.9%,Real,100%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:10:40.814596,feedback_images/2e1e52dc23ce48f89c7c70a29970f51a_Elegant latino girl.webp,AI-Generated,99.0%,AI-Generated,100%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:11:12.955050,feedback_images/81891f1e1cce4cd5a00bc946c9a0bb57_Hunter.webp,AI-Generated,97.0%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:11:53.538388,feedback_images/ece6e369aad04ad28af55e39406fe6bb_unnamed(13).jpg,AI-Generated,54.3%,AI-Generated,100%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:12:37.351905,feedback_images/196eae2648aa499cb47488f624a89b2b_charlesdeluvio-PqsImnjuElM-unsplash.jpg,Real,87.8%,Real,100%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:13:05.816282,feedback_images/f1f9e0d56bd8466aaaa19599f3c75ce4_pexels-bi-ravencrow-2154273033-35380427.jpg,AI-Generated,56.3%,Real,92%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T21:13:24.067025,feedback_images/fd3833334830421c9e57fc247001582d_istockphoto-177383755-1024x1024.jpg,Real,52.8%,Real,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:14:25.807833,feedback_images/aece741caab74ff0981defdb50a000c2_1766729364021.jpg,AI-Generated,54.9%,AI-Generated,76%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:14:48.403765,feedback_images/e5a435dd82f346a0a43a54c79d97a0ac_bg.jpeg,AI-Generated,52.5%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:30:24.858064,feedback_images/c9b7b1c7c89942aead24352f6924af8b_222559551_254325276158787_4688048613313514087_n.jpg,Real,65.1%,Real,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:34:05.758339,feedback_images/7a76d09363f440eba8187cde3317d9bd_563163364_18242150344291138_4868752722198354631_n.jpg,AI-Generated,57.3%,Real,78%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-03T21:34:24.240108,feedback_images/29f9dbec7ccd4b358c4df25ef770a983_580240183_18153668614412377_5057853463032147523_n(1).jpg,Real,64.3%,Real,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:35:47.554056,feedback_images/c2c494b1448e41339bb866499f8bcb63_619905461_18358679077205361_3080855626933489208_n.jpg,Real,97.7%,Real,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:36:19.279763,feedback_images/67d10c5db31b4bc39664f7aac8c15974_591161346_1790045595032840_5876697975075122911_n.jpg,Real,78.6%,Real,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:36:36.177255,feedback_images/e266366d8a184af6abe954c4787a9270_572911235_18346264777205361_1204854543839129080_n.jpg,Real,98.0%,Real,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T21:40:44.172542,feedback_images/d3ff9791359f402197f4e8e12e4810cf_557711343_18342558562205361_9193841019674323756_n.jpg,Real,52.3%,Real,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T23:02:04.108936,feedback_images/a5d55749a58a42ca85b1a9d62d37f0b5_Gemini_Generated_Image_8esq4v8esq4v8esq.png,AI-Generated,54.6%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-03T23:51:45.402285,feedback_images/2c5b7b5d920f4a6aa630a5851c4f5c8a_Gemini_Generated_Image_pnx4oopnx4oopnx4.png,AI-Generated,100.0%,AI-Generated,93%,correct,📱 MobileNetV2 · 98.81%
+2026-03-04T11:49:23.093543,feedback_images/172a66ac46a24605914e0fe673c5b8e1_cinematic photo mixed couple breaking up moving ou.webp,Real,83.3%,AI-Generated,90%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-04T11:52:50.503527,feedback_images/af102c14b6214812b891810f9b66539a_oil painting.webp,AI-Generated,96.1%,AI-Generated,90%,correct,📱 MobileNetV2 · 98.81%
+2026-03-04T12:28:34.693868,feedback_images/85b93f74e36d4c7e8b49d9f72f3471f9_Hunter.webp,AI-Generated,94.6%,AI-Generated,100%,correct,📱 MobileNetV2 · 98.81%
+2026-03-04T13:54:51.073644,feedback_images/827f8ce9cdb94cf3be98cd5f82cfc151_alexander-startsev-ndNw_6QGR_c-unsplash.jpg,AI-Generated,38.3%,Real,99%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-04T13:58:36.739994,feedback_images/c7c63223303d4c21ad98fb420233b8f8_591161346_1790045595032840_5876697975075122911_n.jpg,AI-Generated,52.1%,Real,90%,wrong,📱 MobileNetV2 · 98.81%
+2026-03-04T23:15:54.757929,feedback_images/48162e70ee0c460a88491f61bf6aa5c5_641344389_18363789973205361_6177747080801157342_n.jpg,Real,50.8%,Real,100%,correct,📱 MobileNetV2 · 98.81%
+2026-03-04T23:36:47.401344,feedback_images/1bea05cfb0614b94bc4b108d2fbb7a0c_465897895_1077766753805049_5117315174378535830_n.jpg,Real,97.6%,Real,100%,correct, MobileNetV2 · 98.81%
+2026-03-04T23:50:55.080516,feedback_images/ab19e21c603744f0ab25c45be05670f8_download (1).jpeg,AI-Generated,79.1%,AI-Generated,90%,correct, MobileNetV2 · 98.81%
+2026-03-04T23:57:15.248366,feedback_images/f2807a9d02754855b4f880ea607e2493_download (1).jpeg,AI-Generated,79.1%,AI-Generated,50%,correct, MobileNetV2 · 98.81%
