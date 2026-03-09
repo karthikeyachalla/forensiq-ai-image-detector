@@ -153,7 +153,6 @@ This project is licensed under the [MIT License](LICENSE) — free for personal 
 **Karthikeya Challa**  
 [![GitHub](https://img.shields.io/badge/GitHub-karthikeyachalla-181717?style=flat&logo=github)](https://github.com/karthikeyachalla)
 
-*Original model training credits: Pothuri Indraneel*
 
 ---
 
